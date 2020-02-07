@@ -1,0 +1,5 @@
+jupyter
+RISE
+voila
+ipympl
+qgrid
